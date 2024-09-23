@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Стас\Универ\OOP\OOP_Lab1\Task1\Source.cpp(8,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Student.cpp
+  Создание кода...
+  OOP_Lab1.vcxproj -> D:\Стас\Универ\OOP\OOP_Lab1\Task1\x64\Debug\OOP_Lab1.exe
