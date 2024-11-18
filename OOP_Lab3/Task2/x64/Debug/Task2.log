@@ -1,0 +1,4 @@
+﻿  Task2.cpp
+D:\Стас\Универ\OOP\OOP_Lab3\Task2\Task2.cpp(18,21): warning C4305: аргумент: усечение из "double" в "float"
+D:\Стас\Универ\OOP\OOP_Lab3\Task2\Task2.cpp(31,25): warning C4305: аргумент: усечение из "double" в "float"
+  Task2.vcxproj -> D:\Стас\Универ\OOP\OOP_Lab3\Task2\x64\Debug\Task2.exe
