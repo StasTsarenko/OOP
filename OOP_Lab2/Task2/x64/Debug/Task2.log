@@ -1,4 +1,2 @@
-﻿  MyString.cpp
-  Task2.cpp
-  Создание кода...
-  Task2.vcxproj -> D:\Стас\Универ\OOP\OOP_Lab2\Task2\x64\Debug\Task2.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: "link.exe" завершилась с кодом 1168.
+LINK : fatal error LNK1168: не удается открыть D:\Стас\Универ\OOP\OOP_Lab2\Task2\x64\Debug\Task2.exe для записи

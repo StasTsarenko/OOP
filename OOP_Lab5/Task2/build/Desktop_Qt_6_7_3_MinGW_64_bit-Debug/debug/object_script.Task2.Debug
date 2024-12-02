@@ -1,0 +1,15 @@
+debug/fly.o
+debug/level1.o
+debug/level2.o
+debug/level3.o
+debug/level4.o
+debug/level5.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_fly.o
+debug/moc_level1.o
+debug/moc_level2.o
+debug/moc_level3.o
+debug/moc_level4.o
+debug/moc_level5.o
+debug/moc_mainwindow.o
