@@ -1,0 +1,11 @@
+debug/fly.o
+debug/frog.o
+debug/level.o
+debug/main.o
+debug/mainwindow.o
+debug/room.o
+debug/moc_fly.o
+debug/moc_frog.o
+debug/moc_level.o
+debug/moc_mainwindow.o
+debug/moc_room.o
